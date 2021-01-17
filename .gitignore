@@ -1,0 +1,7 @@
+twitterenv
+.vscode/*
+/env
+*.env
+*.pyc
+*.pyo
+tweets.txt
